@@ -3,6 +3,7 @@
 ## Compiler
 ### CompCert
 Webpage: https://compcert.org/compcert-C.html
+
 Repository: https://github.com/AbsInt/CompCert 
 
 [1] Kästner, Daniel, Jörg Barrho, Ulrich Wünsche, Marc Schlickling, Bernhard Schommer, Michael Schmidt, Christian Ferdinand, Xavier Leroy, and Sandrine Blazy. "CompCert: Practical experience on integrating and qualifying a formally verified optimizing compiler." In ERTS2 2018-9th European Congress Embedded Real-Time Software and Systems, pp. 1-9. 2018.
@@ -14,6 +15,7 @@ Repository: https://github.com/AbsInt/CompCert
 
 ### CakeML
 Webpage:  https://cakeml.org 
+
 Repository: https://github.com/CakeML/cakeml 
 
 [1] Tan, Yong Kiam, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, and Michael Norrish. "The verified CakeML compiler backend." Journal of Functional Programming 29 (2019).
@@ -27,6 +29,7 @@ Repository: https://github.com/CakeML/cakeml
 
 ### Vellvm
 Webpage: https://www.cis.upenn.edu/~stevez/vellvm/ 
+
 Repository: https://github.com/vellvm/vellvm 
 
 [1] Zhao, Jianzhou, Santosh Nagarakatte, Milo MK Martin, and Steve Zdancewic. "Formalizing the LLVM intermediate representation for verified program transformations." In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, pp. 427-440. 2012.
@@ -44,6 +47,7 @@ Repository: https://github.com/CakeML/hardware
 
 ### VeriCert
 Webpage: https://vericert.ymhg.org/ 
+
 Repository: https://sr.ht/~ymherklotz/vericert/ 
 
 [1] Yann Herklotz, James D. Pollard, Nadesh Ramanathan, and John Wickerson. Formal Verification of High-Level Synthesis. In Proc. ACM Program. Lang. 5, OOPSLA, 2021. 
